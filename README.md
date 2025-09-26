@@ -50,8 +50,9 @@ To create a trustworthy and decentralized identity system that empowers users to
 4. Query identities using `getIdentity()` and check verification status with `isVerified()`
 
 ## Contract Functions
-contract adress 0xD8E30F62CCB54F929ce435eeF177f26Aad1547c2
-![Uploading image.png…]()
+contract adress : 0xD8E30F62CCB54F929ce435eeF177f26Aad1547c2
+<img width="1825" height="816" alt="image" src="https://github.com/user-attachments/assets/74c03323-fcf3-4644-b6ee-547f2b4ffe8d" />
+
 
 
 - `createIdentity(string _name, string _email)`: Create a new identity
